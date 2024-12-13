@@ -1,1 +1,1 @@
-# 2024-oss-homework
+# oss 개인과제
